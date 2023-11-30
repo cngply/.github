@@ -1,4 +1,4 @@
-## CONGO CRUD
+## cngply
 
 ### Une plateforme de programmation de la jeunesse congolaise, par la jeunesse congolaise, pour la jeunesse congolaise. 🇨🇩
 
